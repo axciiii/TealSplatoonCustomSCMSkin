@@ -1,10 +1,10 @@
-#player,#player a{ font-size: 10px; font-family:open sans;color:#00d6c4; }
-#player{ background:url(https://github.com/pattreestump/fobfadmusicplayer/blob/master/Logo.png); background-position:bottom; }
-#player .mainImage{ background:url(https://github.com/pattreestump/fobfadmusicplayer/blob/master/Main%20.jpg); }
+#player,#player a{ font-size: 10px; font-family:open sans;color:#000000; }
+#player{ background:url(https://github.com/axciiii/TealSplatoonCustomSCMSkin/blob/master/Main.PNG); background-position:bottom; }
+#player .mainImage{ background:url(https://github.com/axciiii/TealSplatoonCustomSCMSkin/blob/master/Main.PNG); }
 #player #baseLeft{ width:93px; }
 #player #baseRight{ width:145px;}
 #player .button{  width:26px; }
-#player #play{ background:url(https://github.com/pattreestump/fobfadmusicplayer/blob/master/Main.png); }
+#player #play{ background:url(https://github.com/axciiii/TealSplatoonCustomSCMSkin/blob/master/Main.PNG); }
 #player #play,#player #pause{ left:26px; }
 #player #previous{ left:0px; }
 #player #next{ left:52px; }
@@ -14,13 +14,13 @@
 #player #list{ right:0px; }
 #player #seeker{ right:320px; }
 #player #seekerBase{ border-color:#ccc;  }
-#player #seekerBuffered{ background-color:#ffffff; }
+#player #seekerBuffered{ background-color:#a3fff5; }
 #player #seekerSliderBase{ background-color:#ccc; }
 #player #volume{ width:65px; right:39px; }
-#player #volumeSlider{ width:8px; background:url(https://github.com/pattreestump/fobfadmusicplayer/blob/master/Bar.png); }
+#player #volumeSlider{ width:8px; background:url(https://github.com/axciiii/TealSplatoonCustomSCMSkin/blob/master/Bar.PNG); }
 #playlist,#playlist .module,#playlist h3{ border-color:#000000;}
 #playlist .module{  color:#ffffff; background-color:#000000; }
-#playlist h3{ background:url(https://github.com/pattreestump/fobfadmusicplayer/blob/master/playlist.png); color:#fff; background-color:#333;  }
+#playlist h3{ background:url(https://github.com/axciiii/TealSplatoonCustomSCMSkin/blob/master/Playlist.png); color:#fff; background-color:#333;  }
 #playlist .even{background-color:#000000;}
 #playlist .odd{ background-color:#00000;}
 #playlist .focus{ background-color:#ffffff; color:#000000;}
